@@ -1,8 +1,10 @@
 # asmmobile
 
 Assembly Language on Mobile Devices.  
-Inspired by the book "The Art of ARM Assembly" by Randall Hyde.  
+Inspired by the book "The Art of ARM Assembly, Volume 1" by Randall Hyde.  
+ISBN-13: 9781718502826  
 https://nostarch.com/art-arm-assembly  
+https://www.amazon.com/Art-ARM-Assembly-Randall-Hyde/dp/1718502826  
 
 This project provides examples of using assembly language on iOS and Android mobile devices. If you want to learn ARM assembly language but don't have an ARM-based computer, then test code on your ARM-based smartphone or tablet.  
 
